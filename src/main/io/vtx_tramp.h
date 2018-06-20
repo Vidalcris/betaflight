@@ -23,7 +23,7 @@
 #include <stdint.h>
 
 #define VTX_TRAMP_MIN_BAND 1
-#define VTX_TRAMP_MAX_BAND 5
+#define VTX_TRAMP_MAX_BAND 2
 #define VTX_TRAMP_MIN_CHANNEL 1
 #define VTX_TRAMP_MAX_CHANNEL 8
 
